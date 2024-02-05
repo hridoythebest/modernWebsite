@@ -1,14 +1,14 @@
-# Modern Website Design Template
-
-## Overview
-
-This repository provides a sophisticated template for modern website design. It seamlessly integrates React into the Vite development environment, featuring Hot Module Replacement (HMR) and carefully curated ESLint rules to elevate code quality.
 
 ## Live Preview
 
 <img src="./src/assets/1.png" alt="Screenshot 1" />
 <img src="./src/assets/2.png" alt="Screenshot 2" />
 <img src="./src/assets/3.png" alt="Screenshot 3" />
+# Modern Website Design Template
+
+## Overview
+
+This repository provides a sophisticated template for modern website design. It seamlessly integrates React into the Vite development environment, featuring Hot Module Replacement (HMR) and carefully curated ESLint rules to elevate code quality.
 
 ## Features
 
