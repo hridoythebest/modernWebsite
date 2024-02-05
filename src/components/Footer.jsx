@@ -20,7 +20,7 @@ const Footer = () => {
                 <div className='h-0 w-0 border-r-[220px] opacity-50 border-t-[150px] border-l-[220px] border-solid border-r-transparent border-l-transparent border-t-[#337EEA] '></div>
             </div>
             <h1 className='text-white text-[30px] text-semibold mb-20'>MyCyberBase</h1>
-            <img src={react} alt="" className='absolute top-[2230px] h-[20%] left-1/2 transform-translate-x-1/2  ' />
+            <img src={react} alt="" className='absolute top-[2230px] mt-4 ml-[-100px] h-[20%] left-1/2 transform-translate-x-1/2  ' />
         </div>
     );
 };
