@@ -1,4 +1,7 @@
-# React + Vite
+# Modern Website Design
+<img src="./src/assets/1.png">
+<img src="./src/assets/2.png">
+<img src="./src/assets/3.png">
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
