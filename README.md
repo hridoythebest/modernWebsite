@@ -6,9 +6,9 @@ This repository provides a sophisticated template for modern website design. It 
 
 ## Screenshots
 
-![Screenshot 1](./src/assets/1.png)
-![Screenshot 2](./src/assets/2.png)
-![Screenshot 3](./src/assets/3.png)
+<img src="./src/assets/1.png" alt="Screenshot 1" />
+<img src="./src/assets/2.png" alt="Screenshot 2" />
+<img src="./src/assets/3.png" alt="Screenshot 3" />
 
 ## Features
 
