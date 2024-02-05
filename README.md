@@ -4,7 +4,7 @@
 
 This repository provides a sophisticated template for modern website design. It seamlessly integrates React into the Vite development environment, featuring Hot Module Replacement (HMR) and carefully curated ESLint rules to elevate code quality.
 
-## Screenshots
+## Live Preview
 
 <img src="./src/assets/1.png" alt="Screenshot 1" />
 <img src="./src/assets/2.png" alt="Screenshot 2" />
