@@ -8,7 +8,7 @@ const Navbar = () => {
                 <img src={react} alt="" className='absolute top-[25px] h-[18%] w-[20%] ' style={{ left: '5%' }} />
 
                 <div className='mx-auto triangle absolute top-[120px] left-1/2 transform -translate-x-1/2'>
-                    <div className='h-0 w-0 border-r-[120px] border-b-[80px] border-l-[120px] border-solid border-r-transparent border-l-transparent border-b-[#337EEA]'></div>
+                    <div className='h-0 w-0 border-r-[120px] border-b-[80px] border-l-[120px] border-solid border-r-transparent border-l-transparent border-b-[#337EEA] '></div>
                 </div>
                 <div className='mx-auto triangle absolute top-[120px] ' style={{left:'35%' }}>
                     <div className='h-0 w-0 border-r-[120px] border-b-[80px] opacity-70 border-l-[120px] border-solid border-r-transparent border-l-transparent border-b-[#337EEA]'></div>
@@ -25,10 +25,10 @@ const Navbar = () => {
 
 
                 <div className='mx-auto triangle absolute top-[200px] left-1/2 transform -translate-x-1/2'>
-                    <div className='h-0 w-0 border-r-[250px] border-t-[40px] border-l-[250px] border-solid border-r-transparent border-l-transparent border-t-[#337EEA]'></div>
+                    <div className='h-0 w-0 border-r-[250px] border-t-[40px] border-l-[250px] border-solid border-r-transparent border-l-transparent border-t-[#337EEA] '></div>
                 </div>
                 <div className='mx-auto triangle absolute top-[200px] left-1/2 transform -translate-x-1/2'>
-                    <div className='h-0 w-0 border-r-[250px] border-t-[50px] border-l-[250px] border-solid border-r-transparent border-l-transparent opacity-50 border-t-[#337EEA]'></div>
+                    <div className='h-0 w-0 border-r-[250px] border-t-[50px] border-l-[250px] border-solid border-r-transparent border-l-transparent opacity-50 border-t-[#337EEA] '></div>
                 </div>
 
                 <div className='flex flex-row gap-[175px] text-white text-[25px]'>
