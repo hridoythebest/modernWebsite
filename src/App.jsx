@@ -6,7 +6,7 @@ function App() {
     <div className="overflow-hidden">
       <Navbar/>
       <Hero/>
-      <div className="bg-gradient-to-b from-black via-blue-500 to-black h-[1000px]">
+      <div className="bg-gradient-to-b from-black via-blue-500 to-black h-[1200px]">
       <LeftDetails/>
       <RightDetails/>
       </div>
