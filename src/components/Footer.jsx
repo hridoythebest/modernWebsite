@@ -1,4 +1,4 @@
-import React from 'react';
+
 import react from '../assets/react.svg'
 
 const Footer = () => {
